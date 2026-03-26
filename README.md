@@ -1,33 +1,129 @@
-## Hi there 👋
+<div align="center">
 
-# 💫 About Me:
-👋 About Me<br><br>Hi! I’m Vinay, a Computer Science Engineering student who loves building real-world products using AI, GenAI, and full-stack development. I enjoy turning ideas into working systems and learning by building rather than just studying theory.<br><br>🛠️ I’m currently working on<br><br>ElectroLedger – an AI-powered expense intelligence platform<br><br>Full-stack projects combining AI, data engineering, and user-focused design<br><br>Improving my skills in GenAI system design and scalable backend engineering<br><br>🤝 I’m looking to collaborate on<br><br>AI / GenAI projects (LLMs, chatbots, intelligent systems)<br><br>Full-stack applications with real users and impact<br><br>Open-source projects related to AI, data, or web technologies<br><br>🧩 I’m looking for help with<br><br>Designing production-ready ML & GenAI pipelines<br><br>Best practices for scaling AI systems<br><br>Learning from experienced engineers and mentors<br><br>🌱 I’m currently learning<br><br>Generative AI (LLMs, prompt engineering, embeddings)<br><br>Data engineering & feature engineering<br><br>Cloud deployment (AWS, Azure, IBM Watson)<br><br>Writing cleaner, scalable, and maintainable code<br><br>💬 Ask me about<br><br>Full-stack development (MERN)<br><br>AI & ML fundamentals<br><br>Generative AI projects and buildathons<br><br>Building side projects outside coursework<br><br>⚡ Fun fact<br><br>I enjoy breaking down complex problems into simple systems — and I learn best by building things that actually work 🚀
+# Hi, I'm Vinay Partap Singh 👋
 
+### Full-Stack Developer · AI/ML Enthusiast · B.Tech CSE @ KR Mangalam University (2027)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhardwaj.vinay_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhardwajvinay400@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-partap-singh)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhardwajvinay400@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-190+%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
+[![CGPA](https://img.shields.io/badge/CGPA-8.9%2F10-brightgreen?style=for-the-badge)](https://krmu.edu.in)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=plastic&logo=proto.io&logoColor=00e5ff) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vinay-Partap&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vinay-Partap&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-Partap&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vinay-Partap&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!--
-**Vinay-Partap/Vinay-Partap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a **Computer Science student** who builds production-grade full-stack and AI/ML systems. I don't just study theory — I deploy real projects on real infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently building: **CipherSQLStudio** — a browser-based SQL learning platform with live PostgreSQL sandboxes and AI hints
+- 🌱 Learning: **System Design, GenAI pipelines, scalable backend architecture**
+- 🏆 Google Campus Ambassador | McKinsey Forward Alumni | Dean's List Scholar
+- ⚡ 190+ LeetCode problems solved | 225+ Ninja Dominator
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 [CipherSQLStudio](https://github.com/Vinay-Partap/CipherSQLStudio) — [Live Demo](https://cipher-sql-studio-mu.vercel.app)
+> Browser-based SQL learning platform with real query execution
+
+- **Real PostgreSQL sandboxes** — per-session schema isolation with automatic transaction rollback
+- **3-tier AI hint system** via Google Gemini API with custom prompt engineering
+- **JWT auth**, dark mode, progress tracking, difficulty filtering
+- Stack: `React` `Node.js` `PostgreSQL (Neon)` `MongoDB Atlas` `Gemini API` `Vercel` `Render`
+
+---
+
+### 👁️ [VisionGuard AI](https://github.com/Vinay-Partap/VisionGuard) — [Live Demo](https://visionguard-dwiz4twnypak6dkqkr96zz.streamlit.app)
+> Real-time pedestrian & vehicle detection system
+
+- **YOLOv8** object detection with ~95% accuracy across live video streams
+- **3-tier proximity risk classification** (HIGH/MEDIUM/LOW) with cooldown-controlled alerts
+- **70% reduction** in false alert rate via smart cooldown engine
+- Stack: `Python` `YOLOv8` `PyTorch` `OpenCV` `Streamlit`
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat)
+
+**Databases & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**AI / ML**
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinay-Partap&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Vinay-Partap&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-Partap&theme=dark&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+| Award | Organization | Year |
+|-------|-------------|------|
+| Campus Ambassador | Google | 2025 |
+| McKinsey Forward Program | McKinsey & Company | 2025 |
+| Startup School: Prompt to Prototype | Google for Startups | 2025 |
+| BCG GenAI Job Simulation | BCG X | 2025 |
+| AWS Solutions Architecture Simulation | AWS / Forage | 2025 |
+| Gold Medalist — English Olympiad | SOF (Top 1% globally) | 2019 |
+| Dean's List Scholar | KR Mangalam University | 2023– |
+
+---
+
+## 📫 Let's Connect
+
+I'm open to **internship opportunities, open-source collaboration, and interesting projects**.
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-partap-singh)
+[![Email](https://img.shields.io/badge/Send%20me%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhardwajvinay400@gmail.com)
+
+---
+
+<div align="center">
+<strong>⭐ If you find my work interesting, consider starring my repositories!</strong>
+</div>
