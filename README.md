@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-partap-singh)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhardwajvinay400@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-190+%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-200+%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
 [![CGPA](https://img.shields.io/badge/CGPA-8.9%2F10-brightgreen?style=for-the-badge)](https://krmu.edu.in)
 
 </div>
