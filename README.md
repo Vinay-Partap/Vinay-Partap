@@ -163,8 +163,8 @@ Interactive SQL learning environment designed around hands-on query execution an
 
 ## 🤝 Contact
 
-📧 **Email:** YOUR_EMAIL  
-💼 **LinkedIn:** [Vinay Partap Singh](YOUR_LINKEDIN_URL)
+📧 **Email:** bhardwajvinay400@gmail.com
+💼 **LinkedIn:** [Vinay Partap Singh](https://www.linkedin.com/in/vinay-partap-singh-b8b34232a/)
 
 🟢 **Open to Software Engineering Internships — Summer 2027**
 
