@@ -29,6 +29,8 @@ I'm a **Computer Science student at K.R. Mangalam University (2027)** who enjoys
 
 ### 🏆 DevBattles — AI-Powered Coding Learning & Competitive Programming Platform
 
+[🌐 **Live Demo**](https://devbattle-frontend-kappa.vercel.app/)
+
 A full-stack platform designed to make coding practice more interactive through competitive battles, structured learning and AI-powered evaluation.
 
 **Highlights**
@@ -46,6 +48,8 @@ A full-stack platform designed to make coding practice more interactive through 
 
 ### 👁️ VisionGuard — Real-Time Vision & Safety System
 
+[🌐 **Live Demo**](https://visionguard-dwiz4twnypak6dkqkr96zz.streamlit.app/)
+
 A real-time computer vision project for pedestrian and vehicle detection with risk-aware alerts.
 
 **Highlights**
@@ -60,6 +64,8 @@ A real-time computer vision project for pedestrian and vehicle detection with ri
 ---
 
 ### 🗄️ CipherSQLStudio — Browser-Based SQL Learning Platform
+
+[🌐 **Live Demo**](https://cipher-sql-studio-mu.vercel.app/)
 
 A browser-based SQL learning environment designed around hands-on query execution and database practice.
 
