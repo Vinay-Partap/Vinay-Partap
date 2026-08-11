@@ -7,8 +7,8 @@
 🎓 **B.Tech Computer Science — K.R. Mangalam University | Expected 2027**  
 🟢 **Seeking Software Engineering Internships — Summer 2027**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-partap-singh-b8b34232a/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhardwajvinay400@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Vinay_SDE_Resume.pdf)
 
 </div>
