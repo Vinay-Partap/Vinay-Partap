@@ -5,8 +5,8 @@
 ### Full-Stack Developer • AI/ML Engineer • Backend Systems
 
 🎓 **B.Tech Computer Science — K.R. Mangalam University | Expected 2027**  
-🟢 **Seeking Software Engineering Internships — Summer 2027**
- 📍 **Gurugram, India | Open to Relocation / Remote**
+🟢 **Seeking Software Engineering Internships — Summer 2027**  
+📍 **Gurugram, India | Open to Relocation / Remote**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-partap-singh-b8b34232a/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhardwajvinay400@gmail.com)
@@ -37,6 +37,7 @@ A full-stack coding platform combining structured learning, competitive programm
 
 **Highlights**
 - Microservice-oriented backend with dedicated authentication and question services
+- Isolated code-execution architecture designed to safely run concurrent submissions using Docker containers
 - JWT-based authentication and RBAC
 - PostgreSQL + Redis data layer
 - Supports DSA, JavaScript, SQL, React, HTML, CSS, Backend, System Design, and AI challenges
@@ -56,7 +57,8 @@ Real-time computer vision system for pedestrian and vehicle detection with proxi
 
 **Highlights**
 - YOLOv8-based object detection
-- Real-time video processing with OpenCV
+- Real-time video processing with OpenCV, with performance optimized for live safety monitoring
+- Designed for low-latency video inference and real-time safety alerts
 - Pedestrian and vehicle detection
 - Proximity-based risk classification
 - Configurable risk-aware alert logic
@@ -164,7 +166,7 @@ Interactive SQL learning environment designed around hands-on query execution an
 
 ## 🤝 Contact
 
-📧 **Email:** bhardwajvinay400@gmail.com
+📧 **Email:** bhardwajvinay400@gmail.com 
 💼 **LinkedIn:** [Vinay Partap Singh](https://www.linkedin.com/in/vinay-partap-singh-b8b34232a/)
 
 🟢 **Open to Software Engineering Internships — Summer 2027**
