@@ -136,13 +136,12 @@ A browser-based SQL learning environment designed around hands-on query executio
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vinay-Partap&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-Partap&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+<img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
+<img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Vinay-Partap&theme=tokyonight&hide_border=true" />
+<img src="./profile/streak.svg" height="180" alt="GitHub Streak" />
 
 </div>
 
