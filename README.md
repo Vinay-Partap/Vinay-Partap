@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Resume](https://img.shields.io/badge/Resume-View-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resume/Vinay-Partap-Singh-Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Vinay_SDE_Resume.pdf)
 
 </div>
 
