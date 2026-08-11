@@ -4,9 +4,9 @@
 
 ### Full-Stack Developer • AI/ML Enthusiast • Backend & Cloud Learner
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-partap-singh-b8b34232a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Vinay--Partap-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinay-Partap)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhardwajvinay400@gmail.com)
 
 </div>
 
