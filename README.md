@@ -2,12 +2,11 @@
 
 # Hi, I'm Vinay Partap Singh 👋
 
-### Full-Stack Developer · AI/ML Enthusiast · B.Tech CSE @ KR Mangalam University (2027)
+### Full-Stack Developer • AI/ML Enthusiast • Backend & Cloud Learner
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-partap-singh)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhardwajvinay400@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-200+%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
-[![CGPA](https://img.shields.io/badge/CGPA-8.9%2F10-brightgreen?style=for-the-badge)](https://krmu.edu.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Vinay--Partap-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinay-Partap)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
@@ -15,75 +14,115 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student** who builds production-grade full-stack and AI/ML systems. I don't just study theory — I deploy real projects on real infrastructure.
+I'm a **Computer Science student at K.R. Mangalam University (2027)** who enjoys building production-style web applications, backend systems, and AI-powered products.
 
-- 🔭 Currently building: **CipherSQLStudio** — a browser-based SQL learning platform with live PostgreSQL sandboxes and AI hints
-- 🌱 Learning: **System Design, GenAI pipelines, scalable backend architecture**
-- 🏆 Google Campus Ambassador | McKinsey Forward Alumni | Dean's List Scholar
-- ⚡ 190+ LeetCode problems solved | 225+ Ninja Dominator
+- 🔭 Currently building **DevBattles**, an AI-powered coding learning & competitive programming platform
+- 🧠 Exploring **AI/LLM engineering, microservices, system design, cloud and scalable backend architecture**
+- ⚙️ Interested in building products that combine **strong engineering + practical AI**
+- ☁️ Learning and working with **AWS, Docker, CI/CD and production deployment**
+- 💻 Strong focus on **DSA, full-stack development and backend engineering**
+- 🚀 Open to **software engineering internships, collaborative projects and interesting technical opportunities**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 [CipherSQLStudio](https://github.com/Vinay-Partap/CipherSQLStudio) — [Live Demo](https://cipher-sql-studio-mu.vercel.app)
-> Browser-based SQL learning platform with real query execution
+### 🏆 DevBattles — AI-Powered Coding Learning & Competitive Programming Platform
 
-- **Real PostgreSQL sandboxes** — per-session schema isolation with automatic transaction rollback
-- **3-tier AI hint system** via Google Gemini API with custom prompt engineering
-- **JWT auth**, dark mode, progress tracking, difficulty filtering
-- Stack: `React` `Node.js` `PostgreSQL (Neon)` `MongoDB Atlas` `Gemini API` `Vercel` `Render`
+A full-stack platform designed to make coding practice more interactive through competitive battles, structured learning and AI-powered evaluation.
+
+**Highlights**
+- Microservice-oriented backend architecture
+- Authentication and authorization with JWT / RBAC
+- Question service supporting DSA, JavaScript, SQL, React, HTML, CSS, Backend, System Design and AI challenges
+- Structured evaluation configuration for different question types
+- PostgreSQL-based data layer
+- AI-assisted coding evaluation and challenge generation
+- Docker-based development and production-oriented architecture
+
+**Stack:** React.js • Node.js • TypeScript • PostgreSQL • Redis • Docker • AWS • AI/LLMs
 
 ---
 
-### 👁️ [VisionGuard AI](https://github.com/Vinay-Partap/VisionGuard) — [Live Demo](https://visionguard-dwiz4twnypak6dkqkr96zz.streamlit.app)
-> Real-time pedestrian & vehicle detection system
+### 👁️ VisionGuard — Real-Time Vision & Safety System
 
-- **YOLOv8** object detection with ~95% accuracy across live video streams
-- **3-tier proximity risk classification** (HIGH/MEDIUM/LOW) with cooldown-controlled alerts
-- **70% reduction** in false alert rate via smart cooldown engine
-- Stack: `Python` `YOLOv8` `PyTorch` `OpenCV` `Streamlit`
+A real-time computer vision project for pedestrian and vehicle detection with risk-aware alerts.
+
+**Highlights**
+- YOLOv8-based object detection
+- Real-time video processing with OpenCV
+- Pedestrian and vehicle classification
+- Proximity/risk classification
+- Configurable alert logic
+
+**Stack:** Python • YOLOv8 • PyTorch • OpenCV
+
+---
+
+### 🗄️ CipherSQLStudio — Browser-Based SQL Learning Platform
+
+A browser-based SQL learning environment designed around hands-on query execution and database practice.
+
+**Highlights**
+- Interactive SQL execution
+- PostgreSQL sandbox environment
+- Structured learning workflow
+- Transaction-safe query execution
+- Query result visualization
+- AI-assisted learning features
+
+**Stack:** JavaScript • PostgreSQL • Node.js • Express.js • AI/LLMs
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
 
-**Frontend**
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-4B5563?style=flat-square)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Backend**
+### AI / ML
+![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat)
+### DevOps & Engineering
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
-**Databases & Cloud**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-**AI / ML**
-
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat&logo=google&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+**Core concepts:** DSA • OOP • DBMS • System Design • Microservices • SDLC • Agile • ACID • Secure Authentication • Rate Limiting • Schema Design • CI/CD
 
 ---
 
@@ -91,39 +130,59 @@ I'm a **Computer Science student** who builds production-grade full-stack and AI
 
 <div align="center">
 
-![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinay-Partap&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=Vinay-Partap&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Vinay-Partap&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-Partap&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-Partap&theme=dark&hide_border=true&layout=compact)
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Vinay-Partap&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏅 Certifications & Achievements
 
-| Award | Organization | Year |
-|-------|-------------|------|
-| Campus Ambassador | Google | 2025 |
+| Achievement | Organization | Year |
+|---|---|---:|
+| AWS AI Practitioner Learning Plan | Amazon Web Services | 2026 |
 | McKinsey Forward Program | McKinsey & Company | 2025 |
 | Startup School: Prompt to Prototype | Google for Startups | 2025 |
 | BCG GenAI Job Simulation | BCG X | 2025 |
-| AWS Solutions Architecture Simulation | AWS / Forage | 2025 |
-| Gold Medalist — English Olympiad | SOF (Top 1% globally) | 2019 |
-| Dean's List Scholar | KR Mangalam University | 2023– |
+| AWS APAC Solutions Architecture Simulation | Forage / AWS | 2025 |
+| Gold Medalist — International English Olympiad | SOF | — |
+| Campus Ambassador | Google | 2025 |
+| Dean's List Scholar | K.R. Mangalam University | 2025 |
 
 ---
 
-## 📫 Let's Connect
+## 📈 What I'm Currently Improving
 
-I'm open to **internship opportunities, open-source collaboration, and interesting projects**.
-
-[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-partap-singh)
-[![Email](https://img.shields.io/badge/Send%20me%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhardwajvinay400@gmail.com)
+```text
+DSA & Competitive Programming   ███████████████████░  90%
+Full-Stack Development          ███████████████████░  90%
+Backend & System Design         ████████████████░░░░  80%
+AI / LLM Engineering            ████████████████░░░░  80%
+Cloud & DevOps                   ██████████████░░░░░░  70%
+```
 
 ---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing:
+
+- 💡 AI-powered products
+- 🧩 Full-stack & backend engineering
+- ☁️ Cloud and scalable systems
+- 🤖 LLM / GenAI applications
+- 🚀 Open-source collaboration
+
+If you're building something interesting, feel free to reach out.
 
 <div align="center">
-<strong>⭐ If you find my work interesting, consider starring my repositories!</strong>
+
+### ⭐ If you find my projects useful, consider starring the repositories!
+
 </div>
